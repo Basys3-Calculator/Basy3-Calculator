@@ -2,7 +2,7 @@
 FPGA Design Project for NUS EE2026 Digital Design
 
 
-Approach 1: Tracking the GUI Project Files (Easiest)
+# Tracking the Project Files
 
 What to track:
 • Source Files: Your .v (Verilog), .sv (SystemVerilog), or .vhd (VHDL) files located inside the *.srcs/ directory.
